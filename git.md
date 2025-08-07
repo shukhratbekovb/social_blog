@@ -6,3 +6,19 @@ git clone <ссылка на репозиторий>
 ```commandline
 git add .
 ```
+Отмена Добавление
+```commandline
+git reset .
+```
+Проверка Статуса
+```commandline
+git status
+```
+Создание Коммита с его названием
+```commandline
+git commit -m "Название"
+```
+Сохранения нашего коммита в репозитории
+```commandline
+git push
+```
